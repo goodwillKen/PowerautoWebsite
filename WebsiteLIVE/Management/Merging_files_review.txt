@@ -1,4 +1,0 @@
-Copy php files into D:\php_merge
-CMD:
-cd D:\php_merge
-.\merge_php.ps1

@@ -1,2 +1,0 @@
-conda create -n powerauto python=3.11 -y
-conda activate powerauto
